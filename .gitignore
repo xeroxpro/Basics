@@ -1,0 +1,7 @@
+# locally ignore .bak files
+
+*.bak
+
+#locally ignore tmp directory
+
+tmp/*
